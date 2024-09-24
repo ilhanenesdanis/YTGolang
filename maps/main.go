@@ -21,9 +21,8 @@ func main() {
 		"Danis": 3,
 	}
 
-	delete(nameList,"Enes")
+	delete(nameList, "Enes")
+
 	fmt.Println(nameList)
-
-
 
 }
