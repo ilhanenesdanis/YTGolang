@@ -30,6 +30,7 @@ func main() {
 	}
 
 	for key, value := range names {
+
 		fmt.Println(key, value)
 	}
 }
